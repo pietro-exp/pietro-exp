@@ -22,14 +22,14 @@ I aim to **make a tangible impact**, to leave a trace in the world through my pr
 ---
 
 ## 📂 Key Repositories
-- **[Competences](https://github.com/<pietro-exp>/competences)** – Exercises, notes, and mini-projects documenting my learning journey across all university courses.  
-- **[Projects](https://github.com/<pietro-exp>/projects)** – Personal and academic projects demonstrating practical applications of my skills.
+- **[Competences](https://github.com/pietro-exp/competences)** – Exercises, notes, and mini-projects documenting my learning journey across all university courses.  
+- **[Projects]([https://github.com/<pietro-exp>/projects](https://github.com/pietro-exp/projects))** – Personal and academic projects demonstrating practical applications of my skills.
 
 ---
 
 ## 📬 Contact
 - Email: pietromezz2204@gmail.com  
-- LinkedIn: [linkedin.com/in/<pietro-m>](https://linkedin.com/in/<pietro-m>)
+- LinkedIn: [linkedin.com/in/<pietro-m>](https://linkedin.com/in/pietro-m)
 
 ---
 
