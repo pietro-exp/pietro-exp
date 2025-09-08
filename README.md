@@ -1,4 +1,4 @@
-# Hi, I'm Pietro 👋
+# Hi, I'm Pietro
 
 I’m a Computer Science student about to start my **3rd year at university**. I am deeply curious, highly determined, and excited to embark on this journey in technology and innovation. I have a strong passion for the **future, life, progress, and science**, and my goal is to **leave a meaningful mark in the world** through my work and projects. I am particularly fascinated by **Artificial Intelligence** and its potential to transform society.
 
