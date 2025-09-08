@@ -29,7 +29,7 @@ I aim to **make a tangible impact**, to leave a trace in the world through my pr
 
 ## 📬 Contact
 - Email: pietromezz2204@gmail.com  
-- LinkedIn: [linkedin.com/in/pietro-m-757610364](www.linkedin.com/in/pietro-m-757610364)
+- LinkedIn: (www.linkedin.com/in/pietro-m-757610364)
 
 ---
 *Welcome to my GitHub! I’m excited to share my journey, my passions, and my vision for the future. 🚀*
