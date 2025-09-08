@@ -20,17 +20,16 @@ This GitHub profile is a reflection of my **personal journey, passions, and moti
 I aim to **make a tangible impact**, to leave a trace in the world through my projects and efforts, and to constantly push the boundaries of what I can achieve. I am motivated by the belief that **progress, curiosity, and creativity** can truly change the world.
 
 ---
-<!--
+
 ## 📂 Key Repositories
 - **[Competences](https://github.com/pietro-exp/competences)** – Exercises, notes, and mini-projects documenting my learning journey across all university courses.  
-- **[Projects]([https://github.com/<pietro-exp>/projects](https://github.com/pietro-exp/projects))** – Personal and academic projects demonstrating practical applications of my skills.
+- **[Projects](https://github.com/pietro-exp/projects)** – Personal and academic projects demonstrating practical applications of my skills.
 
 ---
 
 ## 📬 Contact
 - Email: pietromezz2204@gmail.com  
-- LinkedIn: [linkedin.com/in/<pietro-m>](https://linkedin.com/in/pietro-m)
+- LinkedIn: [linkedin.com/in/pietro-m-757610364](www.linkedin.com/in/pietro-m-757610364)
 
 ---
--->
 *Welcome to my GitHub! I’m excited to share my journey, my passions, and my vision for the future. 🚀*
